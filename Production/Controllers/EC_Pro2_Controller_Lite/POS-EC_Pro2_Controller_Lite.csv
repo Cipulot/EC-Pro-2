@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_0603_1608Metric,74.72,-6.808719,0.0,top
+F1,500mA,Fuse_1206_3216Metric,62.4,-16.01,90.0,top
+J1,JST,JST-SR-4,66.895,-28.080496,0.0,top
+L1,"220 @ 100MHz, 2A",L_0603_1608Metric,74.72,-8.558719,0.0,top
+R1,5.1k,R_0402_1005Metric,69.475,-11.708719,90.0,top
+R2,5.1k,R_0402_1005Metric,64.0,-11.71,-90.0,top
+U1,SRV05-4,SOT-23-6-routable,66.895,-14.611569,180.0,top
+USB1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-Assembly,66.9,-0.028719,180.0,top
